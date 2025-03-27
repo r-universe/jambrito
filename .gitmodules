@@ -2,12 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "MultAlloc"]
-	path = MultAlloc
-	url = https://github.com/cran/MultAlloc
 [submodule "stratbr"]
 	path = stratbr
 	url = https://github.com/cran/stratbr
-[submodule "stratvns"]
-	path = stratvns
-	url = https://github.com/cran/stratvns
